@@ -1,0 +1,21 @@
+# Inference
+ultralytics==8.4.51
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Data handling & evaluation
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Visualization & plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Notebook support (optional, for running .ipynb files)
+jupyter>=1.0.0
+ipykernel>=6.0.0
